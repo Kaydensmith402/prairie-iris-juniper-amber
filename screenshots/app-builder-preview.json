@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "PoliceNet — Stonehaven Constabulary",
+      "hasCanvas": false,
+      "bodyTextLen": 607,
+      "bodyTextHash": "59110643c653f6cc9c79490001b2603a25737b0f183929bd8304ce5d1500966b",
+      "bodyTextPrefix": "PoliceNet Stonehaven Constabulary Home CLARA Reports SIREN NAS N",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "PoliceNet — Stonehaven Constabulary",
+      "hasCanvas": false,
+      "bodyTextLen": 535,
+      "bodyTextHash": "9d526d01eb5649769b953213bff9f41d06e6e03433dcb6886fa771bc3a31a279",
+      "bodyTextPrefix": "PoliceNet Stonehaven Constabulary Welcome to PoliceNet Stonehave",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
